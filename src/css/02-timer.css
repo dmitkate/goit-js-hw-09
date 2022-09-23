@@ -1,0 +1,20 @@
+input{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    justify-content: center;    
+}
+button{   
+    display: block;
+   margin: 0 auto;   
+  
+}
+.timer{
+   display: flex;
+   justify-content: center;
+}
+.field{
+    padding: 15px;
+    font-size: 44px;
+
+}
